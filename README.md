@@ -2,7 +2,7 @@
 
 $\color{#006400}{\textsf{"As this is the day I have your smile all to myself!"}}$
 
-![](https://komarev.com/ghpvc/?username=Ovrpheus&label=AtoZ:&color=50C878&style=plastic)
+![](https://komarev.com/ghpvc/?username=Ovrpheus&label=AtoZ:&color=F0E2B6&style=plastic)
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3162fbvqohxiqg4shs7uy3b5uvby&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3162fbvqohxiqg4shs7uy3b5uvby&cover_image=true&theme=novatorem&show_offline=false&background_color=006400&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
